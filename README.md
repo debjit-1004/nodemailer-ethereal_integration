@@ -1,0 +1,1 @@
+# This is an integration between nodemailer and ethereal ..simulated smtp server to understanding the working of the mailing systems 
